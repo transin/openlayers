@@ -5,3 +5,6 @@
 /doc/apidocs/
 /examples/example-list.js
 /examples/example-list.xml
+
+# Ignore Mac Desktop Services Store files.
+.DS_Store
